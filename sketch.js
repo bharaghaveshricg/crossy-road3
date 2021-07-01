@@ -5,7 +5,7 @@ var carGroup1,logGroup1;
 var grassHeight = 100;
 var gameState = "play";
 var carAnimation1,carAnimation2, logAnimation, playerAnimation,playerImage;
-var school;
+
 function preload()
 {carAnimation1=loadAnimation("images/car1.png");
 carAnimation2=loadAnimation("images/car2.png");
